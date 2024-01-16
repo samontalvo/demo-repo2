@@ -1,2 +1,11 @@
 # nomnre de archivos que no quiero llevar el control
-config-ide
+#config-ide ARCHIVO CON NOMBRE CONFIG-IDE
+#config-ide* TODOS LOS ARCHIVOS CON NOMBRE CONFIG-IDE
+
+#a nivel de carpeta
+/config/
+
+#para clases de java 
+# .class
+
+
